@@ -245,7 +245,3 @@ docker run -d ... (misma configuración)
 # 📄 Licencia
 
 NetGuard Pro es software propietario bajo un modelo de suscripción. Consulta LICENSE.txt para más detalles.
-
-
-
-# NetGuard-Pro---Plataforma-Empresarial-de-Optimizaci-n-y-Seguridad-de-Redes
