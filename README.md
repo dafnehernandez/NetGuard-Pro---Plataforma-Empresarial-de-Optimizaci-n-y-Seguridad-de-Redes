@@ -12,8 +12,7 @@
 
 **NetGuard Pro**, desarrollado por **NetGuard Solutions**, es un software empresarial diseñado para optimizar, asegurar y escalar entornos de red modernos.
 
-Documentación extendida disponible en:  
-https://docs.google.com/document/d/12tpBoIx1PrdqoYpZAdQvtvKHh6Puav06/edit#heading=h.2s8eyo1
+> Para más información la documentación extendida está disponible en:  : [Documentación Oficial Pública](https://docs.google.com/document/d/13Y2Jr68-xcsJxbS1nzUGuPG9umeYAFUy/edit)
 
 Ofrece:
 
