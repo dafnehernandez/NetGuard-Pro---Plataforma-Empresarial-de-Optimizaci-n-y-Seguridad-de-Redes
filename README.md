@@ -71,7 +71,7 @@ Este README sirve como guía para desarrolladores, administradores de TI y equip
 
 El flujo principal de procesamiento de NetGuard Pro es el siguiente:
 
-![Flujo de Procesamiento](Diagram.png)
+![Flujo de Procesamiento](resources/Diagram.png)
 
 ## 📁 Estructura del Proyecto
 
