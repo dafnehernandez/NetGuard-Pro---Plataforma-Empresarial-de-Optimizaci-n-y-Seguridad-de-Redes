@@ -14,7 +14,7 @@
 
 > Para más información la documentación extendida está disponible en:  : [Documentación Oficial Pública](https://docs.google.com/document/d/13Y2Jr68-xcsJxbS1nzUGuPG9umeYAFUy/edit)
 
-> También puedes leer el artículo que creamos para nuestro sitio web (en inglés) en el cual destacamos por qué somos una empresa líder : [Artículo](resources/ArticleEnterprise.pdf)
+> También puedes leer el artículo que creamos para nuestro sitio web (en inglés y español) en el cual destacamos por qué somos una empresa líder : [Artículo](resources/ArticleEnterprise.pdf)
 
 Ofrece:
 
